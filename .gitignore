@@ -464,3 +464,5 @@ gradle-app.setting
 # Java heap dump
 
 # End of https://www.toptal.com/developers/gitignore/api/java,jetbrains,linux,windows,visualstudiocode,terraform,gradle,react,flutter,android,swift
+back-end/thinkers/src/main/resources/env.properties
+back-end/thinkers/src/main/resources/properties/env.properties

@@ -1,0 +1,16 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "mrjin486.synology.me",
+            "port": 8432,
+            "driver": "PostgreSQL",
+            "name": "thinkers",
+            "database": "thinkers",
+            "username": "thinkers",
+            "password": "zeitfox"
+        }
+    ]
+}
